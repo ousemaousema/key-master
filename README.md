@@ -13,7 +13,6 @@ FUD win32 Keylogger and Reverse Shell (cmd.exe)
 ## Legal disclaimer:
 Usage of SpyKey for attacking targets without perior mutual consentis illegal. It's the end user's responsibility to obey all  applicable local, state and federal laws.
 
-![sk1](https://user-images.githubusercontent.com/34893261/44316624-f8735d00-a402-11e8-8742-d03eb3665f02.png)
 ![sk2](https://user-images.githubusercontent.com/34893261/44316625-f8735d00-a402-11e8-8cfa-d13cfb6eaa24.png)
 
 
@@ -26,3 +25,4 @@ bash spykey.sh
 
 ### Donate!
 Support the authors:
+PayPal Adress : work.hard@ousemaousema.com
