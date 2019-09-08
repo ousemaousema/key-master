@@ -1,5 +1,5 @@
 # SpyKey v1.0
-## Author: https://github.com/ousemaousema/spykey
+## Author: https://github.com/ousemaousema/
 ## IG: instagram.com/ousemaousema
 
 ### Don't copy this code without give me the credit, nerd!
